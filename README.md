@@ -11,7 +11,7 @@ You can use pip to install nmr-classifier.
 pip install nmr_classifier
 ```
 
-## Great resources
+## Resource
 - https://pypi.org/project/nmr-classifier/0.1/
 
 ## Recommendations
