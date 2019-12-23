@@ -13,3 +13,6 @@ pip install nmr_classifier
 
 ## Great resources
 - https://pypi.org/project/nmr-classifier/0.1/
+
+## Recommendations
+- Python3
