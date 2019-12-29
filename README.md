@@ -49,3 +49,5 @@ clf.fit(train_img, test_img)
 # classification
 clf.classifier(train_img, test_img, num, target)
 ```
+For detailed introduction and tutorial, please see "doc_nmr-classifier"
+()
