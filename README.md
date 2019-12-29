@@ -8,11 +8,14 @@ This package uses facial structural information to recognize facial images.
 ## Install
 You can use pip to install nmr-classifier.
 ```{Python}
+# install
 pip install nmr_classifier
-import nmr_classifier
 
 # update
 pip install --update nmr_classifier
+
+# check
+import nmr_classifier
 ```
 
 ## Resource
