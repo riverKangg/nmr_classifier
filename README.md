@@ -17,5 +17,9 @@ import nmr_classifier
 
 ## Example
 ```{Python}
-from nmr_classifier.nmr_
+from nmr_classifier.fast_admm_nmr_classifier import nmr_classifier
+
+clf = nmr_classifier()
+clf.fit(train_img, test_img)
+clf.classifier(train_img, test_img, num, target)
 ```
