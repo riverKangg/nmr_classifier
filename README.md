@@ -51,3 +51,7 @@ clf.classifier(train_img, test_img, num, target)
 ```
 For detailed introduction and tutorial, please see "doc_nmr-classifier"
 (https://github.com/riverKangg/nmr_classifier/blob/master/doc_nmr-classifier.py)
+
+## Update
+- 0.2.4
+: nmr_reconstruction
