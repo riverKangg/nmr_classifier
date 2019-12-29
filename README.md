@@ -13,7 +13,7 @@ import nmr_classifier
 ```
 
 ## Resource
-- https://pypi.org/project/nmr-classifier/0.1/
+- https://pypi.org/project/nmr-classifier/0.2.3/
 
 ## Example
 ```{Python}
