@@ -10,6 +10,9 @@ You can use pip to install nmr-classifier.
 ```{Python}
 pip install nmr_classifier
 import nmr_classifier
+
+# update
+pip install --update nmr_classifier
 ```
 
 ## Resource
