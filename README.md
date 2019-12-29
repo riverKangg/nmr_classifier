@@ -15,4 +15,7 @@ import nmr_classifier
 ## Resource
 - https://pypi.org/project/nmr-classifier/0.1/
 
-
+## Example
+```{Python}
+from nmr_classifier.nmr_
+```
