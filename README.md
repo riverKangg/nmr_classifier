@@ -22,6 +22,7 @@ import nmr_classifier
 - https://pypi.org/project/nmr-classifier/0.2.3/
 
 ## Example
+Here is an example using the Oliveti data set.
 ```{Python}
 # import olivetti dataset
 from sklearn.datasets import fetch_olivetti_faces
