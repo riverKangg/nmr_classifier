@@ -53,5 +53,5 @@ For detailed introduction and tutorial, please see "doc_nmr-classifier"
 (https://github.com/riverKangg/nmr_classifier/blob/master/doc_nmr-classifier.py)
 
 ## Update
-- 0.2.4
+1. 0.2.4 \\
 : nmr_reconstruction
