@@ -19,7 +19,7 @@ import nmr_classifier
 ```
 
 ## Resource
-- https://pypi.org/project/nmr-classifier/0.2.3/
+- https://pypi.org/project/nmr-classifier/
 
 ## Example
 Here is an example using the Oliveti data set.
